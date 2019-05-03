@@ -14,13 +14,20 @@
     <h1>Curriculum Vitae</h1>
     <br>
     <h2>Néstor Gascón Felipe</h2>
-    <br>
-    <p>Nacimiento: 1988<br>
-      Localidad: Zaragoza<br>
-      Teléfono: ... <br>
-      CP: 50011</p>
-    <p><img src="media/svg_logo.svg" alt="texto alternativo" title="titulo" style="width: 156px; height: 156px;">
-      <img src="cAN7Oe4z_400x400.jpg" alt="texto alternativo" title="titulo" style="width: 157px; height: 157px;"><br>
+    <table style="width: 690px; height: 186px;" border="0">
+      <tbody>
+        <tr>
+          <td style="width: 353.45px;">Nacimiento: 1988<br>
+            Localidad: Zaragoza<br>
+            Teléfono: ... <br>
+            CP: 50011</td>
+          <td style="text-align: center; width: 326.55px;"><span style="color: transparent;"><img
+                src="cAN7Oe4z_400x400.jpg" style="width: 198px; height: 171px;"></span></td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+      <br>
     </p>
     <h3> Estudios </h3>
     - Grado en Geografía y Ordenación del Territorio <br>
