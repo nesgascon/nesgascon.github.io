@@ -1,0 +1,89 @@
+<!DOCTYPE html> <!-- tipo de archivo: html -->
+<html> <!-- abre contenido html -->
+<head> <!-- abre cabecera del documento -->
+<!-- contenidos de la cabecera del documento -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Néstor Gascón Felipe</title>
+<style type="text/css" title="estilos personales">
+body {background-color: lightgrey;}
+h1 {
+  font-family: verdana ;
+  color: darkblue;
+  text-align: center;
+}
+p1 {
+  font-family: verdana ;
+  color: grey;
+  font-size: 12px;
+  text-align: left;
+}
+p2 {
+  font-family: verdana ;
+  color: grey;
+  font-size: 12px;
+  text-align: left;
+}
+</style>
+</head> <!-- cierra cabecera del documento -->
+
+<body> <!-- abre cuerpo del documento -->
+
+<!-- contenidos del cuerpo del documento -->
+<h1>Página web de Néstor Gascón Felipe<br>
+<h1/>
+<p1>Geógrafo por la Universidad de Zaragoza<p1/>
+
+  <head>
+  <style>
+  .estudios {background-color: white; color: black; margin: 10px; padding: 10px;}
+h2{
+  font-size: 14px;
+  text-align: left;
+}
+  </style>
+  </head>
+  <body>
+  <div class="estudios">
+
+  <h2>Formación académica</h2>
+  <p2>Máster en Tecnologías de la Información Geográfica. Universidad de Zaragoza (2018-2019).<br>
+    <br>
+    Grado en Geografía y Ordenación del Territorio. Universidad de Zaragoza (2014-2018).<br>
+    <br>
+    Grado Superior de Gestión Comercial y Marketing. IES Santiago Hernández (2009-2010).<br>
+    <br>
+    Grado Medio de Equipos Electrónicos y de Consumo. IES Miralbueno (2004-2006).<br>
+
+  </p2>
+  </div>
+
+  <head>
+  <style>
+  .vida {background-color: white; color: black; margin: 10px; padding: 10px;}
+h2{
+  font-size: 14px;
+  text-align: justify;
+}
+  </style>
+  </head>
+  <body>
+  <div class="vida">
+
+  <h2>Sobre mi</h2>
+  <p2>  <img src="DSC_0193.jpg";
+    width="150" height="260";
+    align="right">Nací en Zaragoza un 21 de abril de 1988, donde he vivido la mayor parte de mi vida, alternando periodos con mi pueblo materno, Tosos, en la misma provincia de Zaragoza. En el año 2010, viví tres meses en Florencia (Italia) para realizar las prácticas de Grado Superior.<br>
+    <br>
+    Tras trabajar en la hostelería durante unos años, en el año 2013 decidí mudarme a Escocia, concretamente a Edimburgo, donde trabajé un año como asistente de cocina en un restaurante mexicano. Tras ello, decidí recorrerme Esocia en solitario, para acabar trabajando en un albergue de la isla de Skye.<br>
+    <br>
+    Finalmente, decidí estudiar el grado de Geografía de Ordenación del Territorio hasta hoy en día, cuando estoy terminando el Máster de TIG<br>
+    <br>
+    Destacar viajes realizados por Europa, concretamente, aparte de los lugares donde he residido, por Irlanda e Islandia<br>
+    <br>
+
+
+  </p2>
+  </div>
+
+</body> <!-- cierra cuerpo del documento -->
+</html> <!-- cierra contenido html -->
