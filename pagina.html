@@ -3,33 +3,6 @@
 <title>Mapa de Europa</title>
 <meta charset="utf-8" />
 
-<title>Mapas</title>
-<style type="text/css" title="estilos personales">
-body {background-color: lightgrey;}
-h1 {
-  font-family: verdana ;
-  color: darkblue;
-  text-align: center;
-}
-h2 {
-  font-family: verdana ;
-  color: darkblue;
-  text-align: center;
-}
-p1 {
-  font-family: verdana ;
-  color: grey;
-  font-size: 12px;
-  text-align: left;
-}
-p2 {
-  font-family: verdana ;
-  color: grey;
-  font-size: 12px;
-  text-align: left;
-}
-</style>
-
 
 <!-- enlace a código CSS de Leaflet en la cabecera -->
 <link rel="stylesheet" href="leaflet.css"/>
@@ -41,6 +14,7 @@ p2 {
 <body>
 <!--Nombre del título-->
 <h1>ESPAÑA</h1>
+
 
 <!-- bloque dónde aparecerá el mapa -->
 <div id="bloque_mapa" style="width: 700px; height: 600px;"></div>
@@ -108,7 +82,3 @@ capas.addTo(mi_mapa);
 var escala = L.control.scale()
 escala.addTo(mi_mapa);
 </script>
-
-<a href="index.html">Volver a inicio</a>
-
-<h1>ESPAÑA</h1>
